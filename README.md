@@ -3,7 +3,7 @@ Travis-ci status: [![Build Status](https://secure.travis-ci.org/jackl0phty/opsch
 
 zone2ldif Cookbook
 ==================
-
+test
 This cookbook installs zone2ldif, a Perl script that converts a DNS zone file to an LDIF file, to /usr/local/bin/zone2ldif.pl..
 
 Requirements
